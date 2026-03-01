@@ -1,5 +1,9 @@
 ## Rafael Barbosa
-### 🤖 Linguagens e Tecnologias
+![Status](https://img.shields.io/badge/Estudante-Desenvolvimento%20de%20Sistemas-1E3A8A?style=flat)
+
+Olá!, sou o Rafael e atualmente estou cursando desenvolvimento de sistemas na Etec.<br>
+Tenho Interesses em Web Development, Design, Cloud e Infraestrutura.
+### 💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
